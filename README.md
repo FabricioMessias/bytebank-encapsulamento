@@ -1,3 +1,3 @@
 # Encapsulamento
 
-### Exemplos desenvolvidos durante o curso de Java da Alura
+### Exemplo estudado e desenvolvido durante o curso de Java da Alura
